@@ -1,0 +1,40 @@
+
+h1 {
+    color:cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#p1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size:medium;
+    text-align:start;
+}
+#p2 {
+
+}
+#p3 {
+    margin-left: 80px;
+}
+image {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+a:link {
+    color:rgb(120,195,200);
+}
+a:visited {
+    color: rgb(171, 226, 43);
+}
+a:active{
+    color: black;
+}
+p{
+    color: white;
+}
+blockquote{
+    color:aliceblue;
+}
+address {
+    color: white;
+}
